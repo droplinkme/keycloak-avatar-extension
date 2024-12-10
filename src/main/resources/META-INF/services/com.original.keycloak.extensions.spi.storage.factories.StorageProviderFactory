@@ -1,0 +1,2 @@
+com.droplink.keycloak.extensions.spi.storage.factories.LocalStorageProviderFactory
+com.droplink.keycloak.extensions.spi.storage.factories.S3StorageProviderFactory

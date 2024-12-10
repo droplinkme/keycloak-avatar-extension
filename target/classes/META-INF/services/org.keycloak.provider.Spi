@@ -1,0 +1,2 @@
+com.droplink.keycloak.extensions.providers.config.implementations.ConfigServiceSpi
+com.droplink.keycloak.extensions.spi.storage.implementations.StorageProviderSpi

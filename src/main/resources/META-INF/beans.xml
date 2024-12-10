@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+      xmlns:interceptors="http://xmlns.jcp.org/xml/ns/javaee/interceptors"
+      bean-discovery-mode="all">
+
+    <interceptors>
+        <class>com.droplink.keycloak.http.interceptors.RetrieveCacheInterceptor</class>
+    </interceptors>
+</beans>
